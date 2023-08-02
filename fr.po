@@ -1,0 +1,5 @@
+msgid "My name is %s.\n"
+msgstr "Je m'appelle %s.\n"
+
+msgid "I am %s.\n"
+msgstr "Je suis %s.\n"
